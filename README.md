@@ -30,6 +30,7 @@ def gcd():
 
 ## Output:
 ![gcd of two number](gcd.png)
+![output](https://github.com/Narendran-sec/GCD-of-two-numbers/assets/147473131/c0a521eb-6a66-4b9c-bd43-1c7a9e2c72c6)
 
 
 ## Result:
